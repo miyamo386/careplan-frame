@@ -22,7 +22,7 @@ CAREPLAN-FRAME
 [要件を定義したシート](https://docs.google.com/spreadsheets/d/1pVzzND62P_e_ogERzu7N9Ayv4SeMqQrtdltsYSqc4ms/edit#gid=665557150)
 
 # データベース設計
-![ER図](careplan-frame_ER図-2.png)
+![ER図](careplan-frame_ER図.png)
 
 # 画面遷移図
 ![画面遷移図](careplan-frame_画面遷移図.png)
